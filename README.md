@@ -3,6 +3,9 @@ FileNet-5.2-Install
 
 This is my instruction &amp; contribution to ppl that have to install IBM's FileNet 5.2 P8 Solution as a Single Server. IBM charges to install this software so this should save you some $$$.
 
+***Before You Begin*** 
+In order to use these instructions you will need the "Legal" installtation files from IBM.  This instruction is to help paying customers since current FileNet install suck ass.
+
 ###Instructions##
 1. Log into the suck ass IBM FileNet Site
 2. Download the Required List of Files for FileNet. The IBM Download Site is a bit of a mess so you will have to to hunt down all the required install packages. Use the search feature to find all the packages.

@@ -6,7 +6,7 @@ This is my instruction &amp; contribution to ppl that have to install IBM's File
 ***Before You Begin*** 
 In order to use these instructions you will need the "Legal" installtation files from IBM.  This instruction is to help paying customers since the current FileNet install sucks ass.
 
-###Instructions##
+### Instructions
 1. Log into the suck ass IBM FileNet Site
 2. Download the Required List of Files for FileNet. The IBM Download Site is a bit of a mess so you will have to to hunt down all the required install packages. Use the search feature to find all the packages.
 3. Rename the downloaded required files to match the instructions in the CPIT\cpit.properties file for example
@@ -38,7 +38,7 @@ In order to use these instructions you will need the "Legal" installtation files
     
 16. If you get a failure at `Step 26` it  probably means you need to Export the LTPA Keys to C:\ltpakeys.txt - Use these directions to [Export LTPA Keys](http://bit.ly/1og9ulx) and run the `CPIT Installer` again
 
-###Notes:###
+### Notes:
 - Let the installer run and hopefully you will have a functioning FileNet Composite Server
 - These instructions will probably be dynamic so feel free to edit and send pull requests.
 
